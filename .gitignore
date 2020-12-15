@@ -1,0 +1,9 @@
+/target/scala-2.12/otus_spark_course-assembly-0.1.jar
+target
+*.class
+*.iml
+*.ipr
+*.iws
+.idea
+out
+.DS_Store
